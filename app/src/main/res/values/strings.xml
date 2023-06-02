@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica_4</string>
+    <string name="SUMAA">Suma</string>
+    <string name="RESTAA">Resta</string>
+    <string name="MULTII">Multriplicacion</string>
+    <string name="DIVICIONN">Divicion</string>
+    <string name="BOTONNN1">Ingrese primer valor</string>
+    <string name="BOTONNN2">Ingrese segundo valor</string>
+    <string name="REFRESS">REFRES</string>
+
+
+</resources>
